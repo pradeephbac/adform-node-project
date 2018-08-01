@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John1",
+    "phone": "+94712440531",
+    "address": "42, Piliyandala, Sri Lanka",
+    "email": "pradeephbac@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "John2",
+    "phone": "+94712440531",
+    "address": "42, Piliyandala, Sri Lanka",
+    "email": "pradeephbac@gmail.com"
+  }
+]
